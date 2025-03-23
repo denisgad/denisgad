@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisgad
-- 👀 I’m work as a CFD engineer
+- 👀 I work as a CFD engineer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - Try LinkedIn: https://www.linkedin.com/in/denis-gad-76789b139/
 
